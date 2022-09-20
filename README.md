@@ -66,7 +66,7 @@ I love connecting with new people, so feel free to message me so we can chat.</d
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/juliadomenciano" target="_blank">
+<a href="https://github.com/juliadomenciano" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/maria-julia-penha-domenciano/" target="_blank">
@@ -79,14 +79,15 @@ I love connecting with new people, so feel free to message me so we can chat.</d
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliadomenciano&hide_border=true&layout=compact" align="center" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=juliadomenciano&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juliadomenciano&show_icons=true&locale=en" alt="juliadomenciano" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliadomenciano&show_icons=true&locale=en&layout=compact" alt="juliadomenciano" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juliadomenciano&" alt="juliadomenciano" /></p> 
 
 <br/>  
 
-
-## Recent Blog Posts  
   
 
 <br/>  
@@ -103,4 +104,3 @@ I love connecting with new people, so feel free to message me so we can chat.</d
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
