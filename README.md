@@ -6,9 +6,8 @@
 ### <div align="center">I'm Júlia, a junior full-stack developer 👩‍💻</div>  
   
 
-<div align="center">I was born and still live in Franca-SP. I have a degree in mechatronics engineering and mechatronics technician. I have been working as an English teacher for three years, where I learned a lot about leadership, communication and interpersonal relationships. I love technology and sports and I'm always looking for new challenges that make me grow and learn.
-I am currently studying software development at Trybe, where I finally managed to find myself in a profession that I like and that motivates me.
-I love connecting with new people, so feel free to message me so we can chat.</div>  
+<div align="center">I was born and current living in Franca-SP. I have a degree in mechatronics engineering and a mechatronics technician. I have been working as an English teacher for five years, where I learned a lot about leadership, communication and interpersonal relationships. I love technology and I'm always looking for new challenges that make
+me grow and learn. I recently completed the software development course at Trybe, where I was finally able to find myself in a profession that I like and that motivates me. Now I'm looking for my first job opportunity as a developer, where I can show my potential, determination, knowledge and much more. I love connecting with new people, so feel free to get in touch.</div>  
   
 
 <br/>  
